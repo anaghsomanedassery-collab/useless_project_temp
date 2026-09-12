@@ -1,0 +1,6 @@
+{
+  "name": "MIRROR.EXE",
+  "description": "An infinite recursive mirror loop project for the TinkerHub Community Make-a-thon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
