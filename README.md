@@ -128,9 +128,12 @@ For Software:
 
 # Screenshots (Add at least 3)
 
+<img width="422" height="318" alt="Screenshot 2026-09-12 080711" src="https://github.com/user-attachments/assets/270f65dc-31cb-48f2-8ed3-dd77062f1a9e" />
 
 
+<img width="440" height="282" alt="Screenshot 2026-09-12 080728" src="https://github.com/user-attachments/assets/59d0a9cf-4fef-404a-85c2-05beb6253c9c" />
 
+<img width="440" height="272" alt="Screenshot 2026-09-12 080747" src="https://github.com/user-attachments/assets/4797fda7-eec0-4f4c-9f06-ef09e6983389" />
 
 
 
@@ -158,11 +161,8 @@ For Hardware:
 *Explain the final build*
 
 ### Project Demo
-# Video
+https://drive.google.com/file/d/15wUvcCJq_WmPfaTyBsqWSxqMvfCBcFu4/view?usp=sharing
 
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 Anagh Soman: Website concept, UI/UX design, interaction logic, development and project integration.
